@@ -1,3 +1,4 @@
+Download allure-2.23.1
 Set path from enviroment variable for allure:  for example ("D:\Small_World_Test\allure-2.23.1\allure-2.23.1\bin")
 
 Install Java 20 and set path from enviroment variable for Java: for example ("C:\Program Files\Java\jdk-20\bin")
